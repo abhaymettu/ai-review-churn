@@ -1,4 +1,4 @@
-# Nobody is reading the robot
+# Nobody is reading the clanker
 
 **On 91% of pull requests that an AI reviewer touches, no human leaves a single inline
 review comment. And when the bot reviews alone, its comments get resolved 43% of the time
