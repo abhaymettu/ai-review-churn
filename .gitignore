@@ -1,0 +1,8 @@
+data/*.parquet
+out/*.jsonl
+out/*.parquet
+out/*.log
+.venv*/
+__pycache__/
+data/gharchive/
+data/*.csv
