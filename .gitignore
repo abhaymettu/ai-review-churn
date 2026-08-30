@@ -6,3 +6,4 @@ out/*.log
 __pycache__/
 data/gharchive/
 data/*.csv
+out/*.bak

@@ -1,24 +1,24 @@
 {
-  "n_prs": 1634,
-  "n_repos": 1491,
-  "n_threads": 9398,
+  "n_prs": 1871,
+  "n_repos": 1686,
+  "n_threads": 10833,
   "truncated_prs": 1,
   "review_mix": {
-    "bot_only": 0.8855569155446756,
-    "both": 0.0850673194614443,
-    "human_only": 0.02937576499388005
+    "bot_only": 0.8834847675040085,
+    "both": 0.08818813468733298,
+    "human_only": 0.028327097808658473
   },
   "review_mix_n": {
-    "bot_only": 1447,
-    "both": 139,
-    "human_only": 48
+    "bot_only": 1653,
+    "both": 165,
+    "human_only": 53
   },
   "among_bot_reviewed": {
-    "n": 1586,
-    "share_no_human_inline_review": 0.912358133669609,
+    "n": 1818,
+    "share_no_human_inline_review": 0.9092409240924092,
     "ci95_repo_clustered": [
-      0.8974675430055177,
-      0.9267515923566879
+      0.8956945232406326,
+      0.9225285361261474
     ]
   },
   "by_quarter": [
@@ -30,39 +30,39 @@
     },
     {
       "q": "2025Q2",
-      "n": 128,
-      "bot_only": 0.78125,
-      "any_bot": 0.90625
+      "n": 131,
+      "bot_only": 0.7862595419847328,
+      "any_bot": 0.9083969465648855
     },
     {
       "q": "2025Q3",
-      "n": 129,
-      "bot_only": 0.8449612403100775,
-      "any_bot": 0.9689922480620154
+      "n": 149,
+      "bot_only": 0.8322147651006712,
+      "any_bot": 0.959731543624161
     },
     {
       "q": "2025Q4",
-      "n": 193,
-      "bot_only": 0.9015544041450777,
-      "any_bot": 0.9844559585492227
+      "n": 230,
+      "bot_only": 0.8956521739130435,
+      "any_bot": 0.9826086956521739
     },
     {
       "q": "2026Q1",
-      "n": 362,
-      "bot_only": 0.9060773480662984,
-      "any_bot": 0.9861878453038674
+      "n": 421,
+      "bot_only": 0.9026128266033254,
+      "any_bot": 0.9881235154394299
     },
     {
       "q": "2026Q2",
-      "n": 522,
-      "bot_only": 0.9061302681992337,
-      "any_bot": 0.9770114942528736
+      "n": 593,
+      "bot_only": 0.9038785834738617,
+      "any_bot": 0.9780775716694773
     },
     {
       "q": "2026Q3",
-      "n": 249,
-      "bot_only": 0.9236947791164659,
-      "any_bot": 0.9839357429718876
+      "n": 296,
+      "bot_only": 0.9155405405405406,
+      "any_bot": 0.9831081081081081
     }
   ],
   "by_quarter_among_bot_reviewed": [
@@ -73,70 +73,70 @@
     },
     {
       "q": "2025Q2",
-      "n": 116,
-      "no_human_inline": 0.8620689655172413
+      "n": 119,
+      "no_human_inline": 0.865546218487395
     },
     {
       "q": "2025Q3",
-      "n": 125,
-      "no_human_inline": 0.872
+      "n": 143,
+      "no_human_inline": 0.8671328671328671
     },
     {
       "q": "2025Q4",
-      "n": 190,
-      "no_human_inline": 0.9157894736842105
+      "n": 226,
+      "no_human_inline": 0.911504424778761
     },
     {
       "q": "2026Q1",
-      "n": 357,
-      "no_human_inline": 0.9187675070028011
+      "n": 416,
+      "no_human_inline": 0.9134615384615384
     },
     {
       "q": "2026Q2",
-      "n": 510,
-      "no_human_inline": 0.9274509803921569
+      "n": 580,
+      "no_human_inline": 0.9241379310344827
     },
     {
       "q": "2026Q3",
-      "n": 245,
-      "no_human_inline": 0.9387755102040817
+      "n": 291,
+      "no_human_inline": 0.9312714776632303
     }
   ],
   "bot_thread_resolution_bot_only": {
-    "n_threads": 7191,
-    "rate": 0.4515366430260047,
+    "n_threads": 8258,
+    "rate": 0.4482925647856624,
     "ci95": [
-      0.4127950781799193,
-      0.4916242417730719
+      0.4127159535773795,
+      0.4845540519335932
     ]
   },
   "bot_thread_resolution_both": {
-    "n_threads": 1110,
-    "rate": 0.7351351351351352,
+    "n_threads": 1261,
+    "rate": 0.7557494052339413,
     "ci95": [
-      0.627396940744927,
-      0.8290225052823533
+      0.6561387534165818,
+      0.8326825819427933
     ]
   },
   "outcomes_bot_only": {
-    "n_prs": 1447,
-    "merge_rate": 0.8472702142363511,
-    "bot_thread_resolved": 0.4515366430260047,
+    "n_prs": 1653,
+    "merge_rate": 0.8481548699334543,
+    "bot_thread_resolved": 0.4482925647856624,
     "human_thread_resolved": null
   },
   "outcomes_both": {
-    "n_prs": 139,
-    "merge_rate": 0.8561151079136691,
-    "bot_thread_resolved": 0.7351351351351352,
-    "human_thread_resolved": 0.6602870813397129
+    "n_prs": 165,
+    "merge_rate": 0.8484848484848485,
+    "bot_thread_resolved": 0.7557494052339413,
+    "human_thread_resolved": 0.6755674232309746
   },
   "outcomes_human_only": {
-    "n_prs": 48,
-    "merge_rate": 0.875,
+    "n_prs": 53,
+    "merge_rate": 0.8301886792452831,
     "bot_thread_resolved": null,
-    "human_thread_resolved": 0.6533333333333333
+    "human_thread_resolved": 0.6216216216216216
   },
   "bot_self_resolved_share": 0.0,
-  "bot_thread_human_reply_rate": 0.14383809179616913,
-  "human_thread_human_reply_rate": 0.4453024453024453
+  "bot_thread_human_reply_rate": 0.14339741569492595,
+  "human_thread_human_reply_rate": 0.4796573875802998
 }
