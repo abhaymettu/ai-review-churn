@@ -1,11 +1,11 @@
 # Nobody is reading the clanker
 
-**On 91% of pull requests that an AI reviewer touches, no human leaves a single inline
-review comment. And when the bot reviews alone, its comments get resolved 43% of the time
-instead of 74%.**
+**This measures whether AI code review on GitHub adds to human review or stands in for it. Mostly it stands in, and
+that is exactly when it works worst.**
 
-AI code review is being used as a replacement for human review, not a supplement. That is
-precisely the condition under which it works worst.
+On 91% of pull requests that an AI reviewer touches, no human leaves a single inline
+review comment. And when the bot reviews alone, its comments get resolved 43% of the time
+instead of 74%.
 
 ## The numbers
 
